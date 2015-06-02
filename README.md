@@ -2,6 +2,10 @@
 
 Install:
 	
+	pip install AlphaID
+
+or by setup tools
+	
 	python setup.py install
 
 Usage:
